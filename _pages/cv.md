@@ -21,7 +21,7 @@ Work experience
 * August 2024 - Present: Graduate Teaching Assistant & Ph.D. Student
   * Auburn University Industrial & Systems Engineering Department, Auburn, AL
   * Graduate teaching assistant and student researcher in the Occupational Safety & Ergonomics program
-  * Supervisor: Dr. Richard Sesek
+  * Advisor: Dr. Richard Sesek
 
 * August 2024 - Present: Engineer Together Fellow
   * Auburn University Samuel Ginn College of Engineering, Auburn, AL
