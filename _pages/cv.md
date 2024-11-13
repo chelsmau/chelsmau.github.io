@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Industrial & Systems Engineering, Auburn University, 2028 (expected)
+* Ph.D. in Industrial & Systems Engineering, Auburn University, 2028 (expected)
 * M.S. in Industrial & Systems Engineering, Auburn University, 2025 (expected)
 * M.A.T. in Secondary Mathematics, Columbus State University, 2018
 * B.S. in Industrial & Systems Engineering, Auburn University, 2013
