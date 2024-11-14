@@ -8,4 +8,4 @@ date: 2024-11-06
 location: "Auburn AL, USA"
 ---
 
-Presentation to the Industrial & Systems Engineering department's OSE program of my recent research explorations and invention disclosures.
+Presentation to Auburn University's Industrial & Systems Engineering department's OSE program pertaining to my recent research explorations and invention disclosures.
