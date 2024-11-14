@@ -1,7 +1,7 @@
 ---
 title: "Ergonomics Unveiled: Trailblazing Careers and Proven Paths"
 collection: talks
-type: "Panel Discussion"
+type: "Conference Talks"
 permalink: /talks/2024-03-26-AEC-Roundtable
 venue: "27th Annual Applied Ergonomics Conference (AEC)"
 date: 2024-03-26
