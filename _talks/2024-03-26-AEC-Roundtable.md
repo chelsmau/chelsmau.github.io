@@ -8,4 +8,4 @@ date: 2024-03-26
 location: "Lousiville KY, USA"
 ---
 
-Facilitated a roundtable discussion between renowned ergonomics professionals and a student audience, including a Q&A of ergonomics career pathways and advice.
+Facilitated and moderated a roundtable discussion between renowned ergonomics professionals and a student audience, including a Q&A of ergonomics career pathways and advice.
