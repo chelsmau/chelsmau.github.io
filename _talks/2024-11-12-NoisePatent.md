@@ -8,4 +8,4 @@ date: 2024-11-12
 location: "Auburn AL, USA"
 ---
 
-Presentation of my recent research in Occupation Noise and an overview of the invention disclosure and awarded provisional patent application processes for *Ear to Ear Empathy Hearing Loss Simulator* and *Dynamic Isopleth Generation and Application*.
+Presentation of my recent research into occupational noise-induced hearing loss (NIHL) and occupational noise assessment, including an overview of the invention disclosure and awarded provisional patent application processes for *Ear to Ear Empathy Hearing Loss Simulator* and *Dynamic Isopleth Generation and Application*.
