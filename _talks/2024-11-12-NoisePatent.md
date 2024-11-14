@@ -1,7 +1,7 @@
 ---
 title: "Research into Occupational Noise and Patent Applications"
 collection: talks
-type: "Presentation"
+type: "Invited Talks"
 permalink: /talks/2024-11-12-NoisePatent
 venue: "Auburn University Safety Engineering I Class"
 date: 2024-11-12
