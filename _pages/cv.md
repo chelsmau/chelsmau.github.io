@@ -25,22 +25,22 @@ Work experience
 
 * August 2024 - Present: Engineer Together Fellow
   * Auburn University Samuel Ginn College of Engineering, Auburn, AL
-  * Graduate student assisting the Associate Dean of the Samuel Ginn College of Engineering in developing and championing programs and events designed to foster a welcoming culture for all engineering students. 
+  * Graduate student assisting the Associate Dean of the Samuel Ginn College of Engineering in developing and championing programs and events designed to foster a welcoming culture for all members within the College of Engineering and through similar collaborative events across other campus colleges and organizations. 
 
 * August 2023 - July 2024: Graduate Student Assistant
   * Auburn University Libraries, Auburn, AL
-  * Graduate student assisting in the DataSpace department of Auburn University’s Innovation and Research Commons at the campus's main library. Specialties included programming assistance with research data analytics in Excel, Matlab, Python, and R. 
+  * Graduate student assistant in the DataSpace department of Auburn University’s Innovation and Research Commons at the campus's main library. Specialties included programming assistance with research data analytics to students, faculty, and staff in Excel, Matlab, Python, and R. 
 
 * January 2019 - May 2020: Secondary Mathematics Teacher
   * Northside High School, Columbus, GA
   * Courses taught: Algebra I, Honors Geometry, Accelerated Geometry B/Algebra II
   * Organized the collaboration between subject level mathematics instructors and district coaches for common assessment baseline process development, improvement, and revision in accordance with GA state standards
-  * Performed statistical analytics to be communicated with school stakeholders and administrators in regards to Positive Behavioral Interventions and Supports (PBIS) and GA College and Career Ready Performance Index (CCRPI)
+  * Performed statistical analyses of Positive Behavioral Interventions and Supports (PBIS) and GA College and Career Ready Performance Index (CCRPI) objective metrics to be communicated with school system stakeholders and administrators
 
 * July 2014 - December 2016: Secondary Educator
   * Brookstone School, Columbus, GA
   * Courses taught: Pre-Algebra, Algebra I, 8th Grade Physical Science, 6th Grade Technology, 8th Grade Technology
-  * Maintained teaching responsibilities while a coach for the Middle School Math Team, mentor for FIRST Robotics Team, assistant coach for the Middle School Girls’ Soccer Team, and in pursuant of a master’s degree
+  * Coach for the Middle School Math Team, mentor for FIRST Robotics Team, and assistant coach for the Middle School Girls’ Soccer Team
   * Created and designed the 8th Grade ACCEL program curriculum and process for gifted students
   * Created and presented instructional support and design materials for colleagues for the integration of Google Apps for Education (Google A4E) in classrooms
 
@@ -48,8 +48,8 @@ Work experience
   * Glenwood School, Smiths Station, AL
   * Courses taught: Algebra I, Regular and Honors Chemistry, Honors Physics, ACT Prep, and Robotics
   * Guided and mentored students who advanced to the Alabama State Science Fair and Regeneron International Science and Engineering Fair 
-  * Beta-tester for Google Classroom and advocate for the adoption and integration of Google A4E at the school’s secondary level to aid in synchronous on-site and remote instructional material delivery and assessment
-  * Maintained teaching responsibilities while serving as Head Coach for school Robotics Team and in pursuant of a master’s degree
+  * Beta-tester and advocate for the adoption and integration of Google A4E at the school’s secondary level to aid in synchronous on-site and remote instructional material delivery and assessment
+  * Head Coach for school Robotics Team
   
 Skills
 ======
