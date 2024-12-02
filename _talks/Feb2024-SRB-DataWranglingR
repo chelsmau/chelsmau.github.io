@@ -1,0 +1,11 @@
+---
+title: "Data Wrangling with R Programming"
+collection: talks
+type: "Workshop"
+permalink: /Feb2024-SRB-DataWranglingR
+venue: "Auburn University, RBD Library"
+date: 2024-02-03
+location: "Auburn AL, USA"
+---
+
+Developed and presented workshop materials to a classroom of 20 students on a basic introduction to using the *tidyverse* package in R programming for data cleaning and transformation.

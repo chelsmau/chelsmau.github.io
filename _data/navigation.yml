@@ -8,20 +8,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Workshops & Presentations"
+    url: /talks/   
     
   - title: "CV"
-    url: /cv/
+    url: "https://github.com/chelsmau/chelsmau.github.io/blob/2629ff6a8ee6bb6de15884793ccd690c65e95cb3/files/Curriculum_Vitae.pdf"
+
     
-  - title: "Guide"
-    url: /markdown/
